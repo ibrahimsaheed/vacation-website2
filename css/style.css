@@ -1,0 +1,54 @@
+body {
+    background-color:black ;
+}
+
+
+
+.cent{
+    text-align: center;
+    color: white;
+}
+
+.top {
+    text-align: center;
+}
+.con {
+    padding: 90px;
+    
+}
+.blockquote {
+    color: white;
+}
+
+.container {
+    color:white;                                                                                                   
+}
+.logo {
+    margin-left: 50px;
+    display: block;
+    border: 0px;
+    border-radius: 70%;
+    height: 140px;
+    width: 140px;
+    
+}
+.jumbotron {
+    text-align: center;
+
+}
+
+.container {
+    border: white;
+    border-style: solid;    
+}
+.logo2{
+    margin-left: 45%;
+    display: block;
+    border: 0px;
+    border-radius: 70%;
+    height: 140px;
+    width: 140px;
+}
+a  {
+    color: white;
+}
